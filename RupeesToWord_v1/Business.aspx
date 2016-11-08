@@ -2,7 +2,7 @@
 
 <asp:Content runat="server" ID="campaignsHolder" ContentPlaceHolderID="mainPlaceHolder">
    
-
+    <div></div>
 
       <div class="form-group">
          <label class="control-label col-md-2">Business name</label>
